@@ -1,3 +1,6 @@
+Lizenzhinweise (auf Deutsch)
+Diese Datei gehört zur Website von Anette Fischer, Food Coaching in Liebenau. Sie nennt die freien Programme, Bilder und Videos, die die Seite nutzt, mit ihren Lizenzen. Der Film oben auf der Startseite ist mit KI erzeugt (Google Veo), alles andere ist freies Material, selbst Gezeichnetes oder Anettes eigene Fotos. Den Rest dieser Datei haben wir auf Englisch geschrieben, weil die Lizenztexte englisch sind.
+
 Anette Fischer · Food Coaching: third-party notices
 ====================================================
 
@@ -7,24 +10,35 @@ Code
 
 Pictures and video (free for commercial use, no attribution required; listed for the record)
 - Food cutouts and plate, Unsplash License (https://unsplash.com/license), cut out by WERTHALT:
-  herbs, plate, and the raspberries (re-set by WERTHALT as a ring of six and as one single raspberry): Mockup Graphics
-  (unsplash.com/photos/x1ZZWyDU8sU, CTUrsRRZn20, TvPoJ6GWNmc)
+  herbs, plate (plate-sh), and the raspberries (himbeere; re-set by WERTHALT as a ring of six, berries-ring, and as one single raspberry):
+  Mockup Graphics (unsplash.com/photos/x1ZZWyDU8sU, CTUrsRRZn20, TvPoJ6GWNmc)
   avocado: Moment InFocus (unsplash.com/photos/gW3WHYRsz94; re-matted 24.10.2026, and its right half alone as avocado-half);
   strawberry: imsogabriel stock (unsplash.com/photos/eIdRIoE2dEo)
+  [files: herbs, plate-sh, himbeere, berries-ring, avocado, avocado-half, strawberry]
 - Built by WERTHALT from the cut-outs above (no AI): the round table with six saucers (tisch-runde: a drawn wooden table top and
   six copies of the plate)
-- Drawn by WERTHALT (own work, no AI): the shop basket and the flip chart cut-outs, the stew, plate and jar engravings, the
-  tea and moon engraving, the day's sun and moon, the crossed knife and fork, the shelf's products and the line icons
+  [files: tisch-runde]
+- Drawn by WERTHALT (own work, no AI): the shop basket (korb) and the flip chart (staffelei) cut-outs, the engravings eintopf (stew),
+  teller-geteilt and teller-dose (plates), glas-joghurt (jar), tee-mond (tea and moon) and schale-sonne (the day's sun), the crossed
+  knife and fork, the shelf's products and the line icons
+  [files: korb, staffelei, eintopf, teller-geteilt, teller-dose, glas-joghurt, tee-mond, schale-sonne]
 - Food and object cutouts from Pexels photos, Pexels License (https://www.pexels.com/license/), cut out by WERTHALT:
   tee: Feyza Daştan (pexels.com/photo/17133293, tea re-coloured to a pale herbal tea);
   brokkoli: Sixpath Of Dewa (pexels.com/photo/4564501); brot: Polina Tankilevitch (pexels.com/photo/8599726); haferbrei: Cup of Couple (pexels.com/photo/7655878)
-- Engravings, public domain (Wikimedia Commons): sage, Vilmorin-Andrieux 1883; sunflower, Basilius Besler, Hortus Eystettensis (1640 print)
+  [files: tee, brokkoli, brot, haferbrei]
+- Engravings, public domain (Wikimedia Commons): sage (sauge), Vilmorin-Andrieux 1883; lettuce (laitue), carrots (carottes-bund),
+  yellow beet (betterave-jaune) and bean (haricot), Vilmorin-Andrieux, Les plantes potagères, 1904. Sources: assets/litho/CREDITS.md
+  [files: sauge, laitue, carottes-bund, betterave-jaune, haricot]
 - Photo from Burst by Shopify (https://www.shopify.com/stock-photos/licenses): "themen-energie" (berries-bananas-smoothie-bowl)
 - Plate shadow baked into the plate picture by WERTHALT
-- Further photos and films: Pexels License (https://www.pexels.com/license/) and Burst by Shopify licence. A list with source and author for every file is kept with the website project.
+- Hero film on the start page (hero-film-*.mp4, its posters and the animated WebP files): generated with AI (Google Veo), not stock. The start page says so beside the film ("Film: mit KI erzeugt.").
+- Further stock photos and films (not the hero film): Pexels License (https://www.pexels.com/license/) and Burst by Shopify licence. The wide photo bands of the offer pages are Pexels photos 8761328 (vortrag-abend), 2750558 (foodcoaching-teller) and 4262172 (gruppe-runde), cut and graded by WERTHALT. A list with source and author for every file is kept with the website project (assets/media/CREDITS.md).
 
 Fonts: Apple devices use their own system font. Everyone else gets "Inter" (assets/fonts/inter-latin.woff2, Latin subset of the variable font,
-from @fontsource-variable/inter), Copyright 2016 The Inter Project Authors, SIL Open Font License 1.1, https://github.com/rsms/inter
+from @fontsource-variable/inter), Copyright 2016 The Inter Project Authors, SIL Open Font License 1.1, https://github.com/rsms/inter.
+The italic accent words in the headlines are set in "Instrument Serif" (assets/fonts/instrument-serif-latin-400-italic.woff2),
+Copyright 2022 The Instrument Serif Project Authors, SIL Open Font License 1.1, https://github.com/Instrument/instrument-serif
+[files: inter-latin, instrument-serif-latin-400-italic]
 
 
 ========================================================================
