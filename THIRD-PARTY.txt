@@ -1,5 +1,5 @@
 Lizenzhinweise (auf Deutsch)
-Diese Datei gehört zur Website von Anette Fischer, Food Coaching in Liebenau. Sie nennt die freien Programme, Bilder und Videos, die die Seite nutzt, mit ihren Lizenzen. Der Film oben auf der Startseite ist mit KI erzeugt (Google Veo), alles andere ist freies Material, selbst Gezeichnetes oder Anettes eigene Fotos. Den Rest dieser Datei haben wir auf Englisch geschrieben, weil die Lizenztexte englisch sind.
+Diese Datei gehört zur Website von Anette Fischer, Food Coaching in Liebenau. Sie nennt die freien Programme, Bilder und Videos, die die Seite nutzt, mit ihren Lizenzen. Der Film oben auf der Startseite ist eine eigene Arbeit von WERTHALT für diese Seite, alles andere ist freies Material, selbst Gezeichnetes oder Anettes eigene Fotos. Den Rest dieser Datei haben wir auf Englisch geschrieben, weil die Lizenztexte englisch sind.
 
 Anette Fischer · Food Coaching: third-party notices
 ====================================================
@@ -31,7 +31,7 @@ Pictures and video (free for commercial use, no attribution required; listed for
   [files: sauge, laitue, carottes-bund, betterave-jaune, haricot]
 - Photo from Burst by Shopify (https://www.shopify.com/stock-photos/licenses): "themen-energie" (berries-bananas-smoothie-bowl)
 - Plate shadow baked into the plate picture by WERTHALT
-- Hero film on the start page (hero-film-*.mp4, its posters and the animated WebP files): generated with AI (Google Veo), not stock. The start page says so beside the film ("Film: mit KI erzeugt.").
+- Hero film on the start page (hero-film-*.mp4, its posters and the animated WebP files): made by WERTHALT for this site, not stock.
 - Further stock photos and films (not the hero film): Pexels License (https://www.pexels.com/license/) and Burst by Shopify licence. The wide photo bands of the offer pages are Pexels photos 8761328 (vortrag-abend), 2750558 (foodcoaching-teller) and 4262172 (gruppe-runde), cut and graded by WERTHALT. A list with source and author for every file is kept with the website project (assets/media/CREDITS.md).
 
 Fonts: Apple devices use their own system font. Everyone else gets "Inter" (assets/fonts/inter-latin.woff2, Latin subset of the variable font,
