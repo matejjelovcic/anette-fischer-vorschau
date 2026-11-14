@@ -45,7 +45,7 @@ Stand: November 2026.
 - Keine Diagnosen und keine Behandlung von Krankheiten: Food Coaching ist eine Begleitung rund ums Essen und ersetzt keine ärztliche Untersuchung oder Behandlung.
 - Keine Beratung zur Dosierung oder zum Absetzen der Abnehmspritze: das klärt die Ärztin oder der Arzt. Ernährung während und nach der Spritze: ja.
 - Keine Diät und keine Verbotslisten.
-- Keine Online-Beratung: Termine nur persönlich vor Ort.
+- Keine Online-Beratung: die Beratung ist persönlich vor Ort; das kostenlose Erstgespräch geht auch am Telefon.
 
 ## Seiten
 - [Alle Angebote und Preise](angebote.html)
